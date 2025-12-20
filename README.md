@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I am a BS Information Technology student committed
   - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/c236dba5a7c14aeabfb2e6e1299d036e)
   - [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A45577AA7D7D1D550C1E7381EECF81D6652412AC9D24D6161627D14451FC9968)
   - [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0258CB7DF202AC279354D4B77ECB998C1FD0A403FBC815085A7237F69C56FF17)
+  - [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D47C508B502CED174C3F8EFDC95095FB2C22310D67E9D06953AA9BBCFA7F9678)
 
 🖥️**Skill Sets**
 
