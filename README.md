@@ -24,49 +24,49 @@ Welcome to my GitHub profile. I am a BS Information Technology student committed
 
 ### Programming
 <div align="center">
-  <div style="display:inline-block; text-align:center; margin:20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/><br>Java
+  <div style="display:inline-block; text-align:center; margin:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br>Java
   </div>
-  <div style="display:inline-block; text-align:center; margin:20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/><br>JavaScript
+  <div style="display:inline-block; text-align:center; margin:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript
   </div>
-  <div style="display:inline-block; text-align:center; margin:20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br>Python
+  <div style="display:inline-block; text-align:center; margin:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python
   </div>
 </div>
 
 ### Databases
 <div align="center">
-  <div style="display:inline-block; text-align:center; margin:20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/><br>SQL
+  <div style="display:inline-block; text-align:center; margin:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>SQL
   </div>
-  <div style="display:inline-block; text-align:center; margin:20px;">
-    <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="60"/><br>Supabase
+  <div style="display:inline-block; text-align:center; margin:10px;">
+    <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="40"/><br>Supabase
   </div>
-  <div style="display:inline-block; text-align:center; margin:20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60"/><br>Firebase
+  <div style="display:inline-block; text-align:center; margin:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/><br>Firebase
   </div>
 </div>
 
 ### Tools
 <div align="center">
-  <div style="display:inline-block; text-align:center; margin:20px;">
-    <img src="https://avatars.githubusercontent.com/u/10412235?s=200&v=4" width="60"/><br>Lucidchart
+  <div style="display:inline-block; text-align:center; margin:10px;">
+    <img src="https://avatars.githubusercontent.com/u/10412235?s=200&v=4" width="40"/><br>Lucidchart
   </div>
-  <div style="display:inline-block; text-align:center; margin:20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="60"/><br>Eclipse
+  <div style="display:inline-block; text-align:center; margin:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40"/><br>Eclipse
   </div>
-  <div style="display:inline-block; text-align:center; margin:20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/><br>VS Code
+  <div style="display:inline-block; text-align:center; margin:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br>VS Code
   </div>
-  <div style="display:inline-block; text-align:center; margin:20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60"/><br>IntelliJ
+  <div style="display:inline-block; text-align:center; margin:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/><br>IntelliJ
   </div>
-  <div style="display:inline-block; text-align:center; margin:20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60"/><br>Figma
+  <div style="display:inline-block; text-align:center; margin:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/><br>Figma
   </div>
-  <div style="display:inline-block; text-align:center; margin:20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="60"/><br>PyCharm
+  <div style="display:inline-block; text-align:center; margin:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40"/><br>PyCharm
   </div>
 </div>
 
