@@ -22,65 +22,58 @@ Welcome to my GitHub profile. I am a BS Information Technology student committed
 
 ## Skill Sets
 
-### Programming
 <div align="center">
-  <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-    <figcaption>Java</figcaption>
-  </figure>
-  <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-    <figcaption>JavaScript</figcaption>
-  </figure>
-  <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-    <figcaption>Python</figcaption>
-  </figure>
+
+### Programming
+<div style="display:flex; justify-content:center; gap:40px; margin-top:10px;">
+  <div style="text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br>Java
+  </div>
+  <div style="text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript
+  </div>
+  <div style="text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python
+  </div>
 </div>
 
 ### Databases
-<div align="center">
-  <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-    <figcaption>SQL</figcaption>
-  </figure>
-  <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="40"/>
-    <figcaption>Supabase</figcaption>
-  </figure>
-  <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
-    <figcaption>Firebase</figcaption>
-  </figure>
+<div style="display:flex; justify-content:center; gap:40px; margin-top:10px;">
+  <div style="text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>SQL
+  </div>
+  <div style="text-align:center;">
+    <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="40"/><br>Supabase
+  </div>
+  <div style="text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/><br>Firebase
+  </div>
 </div>
 
 ### Tools
-<div align="center">
-  <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="https://avatars.githubusercontent.com/u/10412235?s=200&v=4" width="40"/>
-    <figcaption>Lucidchart</figcaption>
-  </figure>
-  <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40"/>
-    <figcaption>Eclipse</figcaption>
-  </figure>
-  <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-    <figcaption>VS Code</figcaption>
-  </figure>
-  <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
-    <figcaption>IntelliJ</figcaption>
-  </figure>
-  <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-    <figcaption>Figma</figcaption>
-  </figure>
-  <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40"/>
-    <figcaption>PyCharm</figcaption>
-  </figure>
+<div style="display:flex; justify-content:center; gap:40px; margin-top:10px; flex-wrap:wrap;">
+  <div style="text-align:center;">
+    <img src="https://avatars.githubusercontent.com/u/10412235?s=200&v=4" width="40"/><br>Lucidchart
+  </div>
+  <div style="text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40"/><br>Eclipse
+  </div>
+  <div style="text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br>VS Code
+  </div>
+  <div style="text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/><br>IntelliJ
+  </div>
+  <div style="text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/><br>Figma
+  </div>
+  <div style="text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40"/><br>PyCharm
+  </div>
 </div>
+
+</div>
+
 
 ---
 
