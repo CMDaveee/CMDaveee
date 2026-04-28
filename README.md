@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I am a BS Information Technology student committed
 🖥️**Skill Sets**
 
   - **Programming:** Java, JavaScript, Python,<br>
-  - **Databases:** SQL<br>
+  - **Databases:** SQL, Supabase, Firebase, <br>
   - **Tools:** Lucidchart, Eclipse, Visual Studio Code, Intellij IDEA, Figma, Pycharm
 
 📧**Let's Connect!**
