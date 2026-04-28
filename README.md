@@ -18,23 +18,24 @@ Welcome to my GitHub profile! I am a BS Information Technology student committed
 
 ## 🖥️ Skill Sets
 
-### 👨‍💻 Programming
-[![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)](https://www.python.org/)
+### 👨‍💻 Programming  
+![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)  
 
-### 🗄️ Databases
-[![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=database&logoColor=black)](https://www.mysql.com/)
-[![Supabase](https://img.shields.io/badge/Supabase-green?logo=supabase&logoColor=white)](https://supabase.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase&logoColor=white)](https://firebase.google.com/)
+### 🗄️ Databases  
+![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=database&logoColor=black)  
+![Supabase](https://img.shields.io/badge/Supabase-green?logo=supabase&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase&logoColor=white)  
 
-### 🛠️ Tools
-[![Lucidchart](https://img.shields.io/badge/Lucidchart-blueviolet?logo=lucidchart&logoColor=white)](https://lucidchart.com/)
-[![Eclipse](https://img.shields.io/badge/Eclipse-darkblue?logo=eclipse&logoColor=white)](https://www.eclipse.org/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-black?logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
-[![Figma](https://img.shields.io/badge/Figma-pink?logo=figma&logoColor=white)](https://www.figma.com/)
-[![PyCharm](https://img.shields.io/badge/PyCharm-darkgreen?logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+### 🛠️ Tools  
+![Lucidchart](https://img.shields.io/badge/Lucidchart-blueviolet?logo=lucidchart&logoColor=white)  
+![Eclipse](https://img.shields.io/badge/Eclipse-darkblue?logo=eclipse&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode&logoColor=white)  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-black?logo=intellijidea&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-pink?logo=figma&logoColor=white)  
+![PyCharm](https://img.shields.io/badge/PyCharm-darkgreen?logo=pycharm&logoColor=white)  
+
 
 
 📧**Let's Connect!**
