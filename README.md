@@ -18,8 +18,6 @@ Welcome to my GitHub profile! I am a BS Information Technology student committed
 
 ## 🖥️ Skill Sets
 
-## 🖥️ Skill Sets
-
 ### 👨‍💻 Programming
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
