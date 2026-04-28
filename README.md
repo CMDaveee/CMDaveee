@@ -18,23 +18,24 @@ Welcome to my GitHub profile! I am a BS Information Technology student committed
 
 ## 🖥️ Skill Sets
 
-### 👨‍💻 Programming  
-![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)  
+### 👨‍💻 Programming
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
 
-### 🗄️ Databases  
-![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=database&logoColor=black)  
-![Supabase](https://img.shields.io/badge/Supabase-green?logo=supabase&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase&logoColor=white)  
+### 🗄️ Databases
+![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+![Supabase](https://avatars.githubusercontent.com/u/54469796?s=200&v=4)
+![Firebase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg)
 
-### 🛠️ Tools  
-![Lucidchart](https://img.shields.io/badge/Lucidchart-blueviolet?logo=lucidchart&logoColor=white)  
-![Eclipse](https://img.shields.io/badge/Eclipse-darkblue?logo=eclipse&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode&logoColor=white)  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-black?logo=intellijidea&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-pink?logo=figma&logoColor=white)  
-![PyCharm](https://img.shields.io/badge/PyCharm-darkgreen?logo=pycharm&logoColor=white)  
+### 🛠️ Tools
+![Lucidchart](https://avatars.githubusercontent.com/u/10412235?s=200&v=4)
+![Eclipse](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg)
+![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
+![IntelliJ IDEA](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg)
+![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg)
+![PyCharm](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg)
+
 
 
 
