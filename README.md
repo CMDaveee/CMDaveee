@@ -16,11 +16,26 @@ Welcome to my GitHub profile! I am a BS Information Technology student committed
   - [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D47C508B502CED174C3F8EFDC95095FB2C22310D67E9D06953AA9BBCFA7F9678)
   - [Accenture Digital Skills: User Experience](https://www.futurelearn.com/certificates/2o8qm1m)
 
-🖥️**Skill Sets**
+## 🖥️ Skill Sets
 
-  - **Programming:** Java, JavaScript, Python,<br>
-  - **Databases:** SQL, Supabase, Firebase, <br>
-  - **Tools:** Lucidchart, Eclipse, Visual Studio Code, Intellij IDEA, Figma, Pycharm
+### 👨‍💻 Programming
+[![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)](https://www.python.org/)
+
+### 🗄️ Databases
+[![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=database&logoColor=black)](https://www.mysql.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-green?logo=supabase&logoColor=white)](https://supabase.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase&logoColor=white)](https://firebase.google.com/)
+
+### 🛠️ Tools
+[![Lucidchart](https://img.shields.io/badge/Lucidchart-blueviolet?logo=lucidchart&logoColor=white)](https://lucidchart.com/)
+[![Eclipse](https://img.shields.io/badge/Eclipse-darkblue?logo=eclipse&logoColor=white)](https://www.eclipse.org/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-black?logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![Figma](https://img.shields.io/badge/Figma-pink?logo=figma&logoColor=white)](https://www.figma.com/)
+[![PyCharm](https://img.shields.io/badge/PyCharm-darkgreen?logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+
 
 📧**Let's Connect!**
 
