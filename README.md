@@ -23,19 +23,32 @@ Welcome to my GitHub profile. I am a BS Information Technology student committed
 ## Skill Sets
 
 ### Programming
+<div align="center">
+
 | Java | JavaScript | Python |
 |------|------------|--------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> |
 
+</div>
+
 ### Databases
+<div align="center">
+
 | SQL | Supabase | Firebase |
 |-----|----------|----------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/> | <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/> |
 
+</div>
+
 ### Tools
+<div align="center">
+
 | Lucidchart | Eclipse | VS Code | IntelliJ | Figma | PyCharm |
 |------------|---------|---------|----------|-------|---------|
 | <img src="https://avatars.githubusercontent.com/u/10412235?s=200&v=4" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50"/> |
+
+</div>
+
 
 ---
 
