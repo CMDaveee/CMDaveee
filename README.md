@@ -43,7 +43,7 @@ Welcome to my GitHub profile. I am a BS Information Technology student committed
 
 ### Languages
 
-<table border="0" cellpadding="10" align="center">
+<table border="0" cellpadding="10">
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br/>Java
@@ -68,7 +68,7 @@ Welcome to my GitHub profile. I am a BS Information Technology student committed
 
 ### Databases
 
-<table border="0" cellpadding="10" align="center">
+<table border="0" cellpadding="10">
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/><br/>SQL
@@ -84,7 +84,7 @@ Welcome to my GitHub profile. I am a BS Information Technology student committed
 
 ### Tools
 
-<table border="0" cellpadding="10" align="center">
+<table border="0" cellpadding="10">
   <tr>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/10412235?s=200&v=4" width="40" height="40" alt="Lucidchart"/><br/>Lucidchart
