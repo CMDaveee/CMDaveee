@@ -6,9 +6,7 @@ Welcome to my GitHub profile. I am a BS Information Technology student committed
 
 ## Education
 
-| Degree | School | Year |
-|--------|--------|------|
-| BS Information Technology | New Era University | 2024–Present |
+**BS Information Technology** — New Era University, 2024–Present
 
 ---
 
@@ -39,49 +37,69 @@ Welcome to my GitHub profile. I am a BS Information Technology student committed
 
 ### Languages
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React Native" title="React Native" />
-</div>
-
-<div align="center">
-Java &nbsp;&nbsp;&nbsp; JavaScript &nbsp;&nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp; HTML &nbsp;&nbsp;&nbsp; CSS &nbsp;&nbsp;&nbsp; React Native
-</div>
-
-<br>
+<table border="0" cellpadding="10" align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br/>Java
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/>Python
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br/>HTML
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/><br/>CSS
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React Native"/><br/>React Native
+    </td>
+  </tr>
+</table>
 
 ### Databases
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL" title="SQL" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="40" height="40" alt="Supabase" title="Supabase" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" title="Firebase" />
-</div>
-
-<div align="center">
-SQL &nbsp;&nbsp;&nbsp; Supabase &nbsp;&nbsp;&nbsp; Firebase
-</div>
-
-<br>
+<table border="0" cellpadding="10" align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/><br/>SQL
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="40" height="40" alt="Supabase"/><br/>Supabase
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/><br/>Firebase
+    </td>
+  </tr>
+</table>
 
 ### Tools
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/10412235?s=200&v=4" width="40" height="40" alt="Lucidchart" title="Lucidchart" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" height="40" alt="Eclipse" title="Eclipse" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" title="VS Code" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ" title="IntelliJ" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" title="Figma" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm" title="PyCharm" />
-</div>
-
-<div align="center">
-Lucidchart &nbsp;&nbsp;&nbsp; Eclipse &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; IntelliJ &nbsp;&nbsp;&nbsp; Figma &nbsp;&nbsp;&nbsp; PyCharm
-</div>
+<table border="0" cellpadding="10" align="center">
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/10412235?s=200&v=4" width="40" height="40" alt="Lucidchart"/><br/>Lucidchart
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" height="40" alt="Eclipse"/><br/>Eclipse
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/><br/>VS Code
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ"/><br/>IntelliJ
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/><br/>Figma
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm"/><br/>PyCharm
+    </td>
+  </tr>
+</table>
 
 ---
 
