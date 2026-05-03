@@ -21,6 +21,12 @@ Welcome to my GitHub profile. I am a BS Information Technology student committed
 **Mobile Development**
 > Built and tested cross-platform mobile applications using React Native via Expo Snack.
 
+**Web Development**
+> Developed and designed responsive web pages using HTML, CSS, and JavaScript with a focus on user experience and clean layout.
+
+**Web Design**
+> Designed user interfaces and web layouts with a focus on visual consistency, usability, and clean aesthetics.
+
 ---
 
 ## Certifications
