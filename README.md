@@ -41,7 +41,7 @@ Welcome to my GitHub profile. I am a BS Information Technology student committed
 
 ## Skill Sets
 
-### Languages
+### Programming Languages and Frameworks
 
 <table border="0" cellpadding="10">
   <tr>
